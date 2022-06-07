@@ -1,8 +1,8 @@
 .section-subtitle {
   display: flex;
   justify-content: center;
-  padding: 20px 20% 0px; 
-  margin: 0;
+  padding: 20px 0 0; 
+  margin: auto;
   font-weight: 400;
   width: 60%;
   font-family: 'Inter', 'Arial', sans-serif; 

@@ -2,4 +2,5 @@
   padding: 60px 0 40px 0;
   background-color:#1f1f1f;
   min-height: 350px;
+  box-sizing: border-box;
 }

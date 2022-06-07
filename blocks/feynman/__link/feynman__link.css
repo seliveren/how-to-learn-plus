@@ -9,6 +9,7 @@
   font-family: 'Inter', 'Arial', sans-serif; 
   font-weight: 400;
   transition: opacity 1s ease;
+  z-index: 2;
 }
 
 .feynman__link:hover {

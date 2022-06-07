@@ -1,5 +1,6 @@
 .resources__link {
   transition: opacity 1s ease;
+  list-style-type: none;
 }
 
 .resources__link:hover {
