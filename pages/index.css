@@ -1,6 +1,9 @@
 /*normalize*/
 @import url(../vendor/normalize.css);
 
+/*fonts*/
+@import url(../vendor/fonts/fonts.css);
+
 /*cards*/
 @import url(../blocks/cards/cards.css); 
 @import url(../blocks/cards/__description/cards__description.css);
@@ -111,6 +114,3 @@
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__title/khan__title.css);
-
-/*fonts*/
-@import url(../vendor/fonts/fonts.css);
